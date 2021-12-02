@@ -3,7 +3,7 @@
 
 ## Requirements
 - python
-- sklearn
+- [scikit-learn](https://scikit-learn.org/stable/)
 
 ## Files and Folders
 1. model_exp1__data_exp2 &&  model_exp1__data_exp3
